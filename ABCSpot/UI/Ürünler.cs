@@ -24,7 +24,7 @@ namespace ABCSpot.UI
 
             FrmUrun frm = new FrmUrun()
             {
-                Text = "Müşteri Ekle",
+                Text = "Ürün Ekle",
                 Urun = new Urun() { ID = Guid.NewGuid() },
             };
 
